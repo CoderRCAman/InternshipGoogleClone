@@ -129,16 +129,8 @@ input[type="submit"]{
 input[type="submit"]:hover{
   background: #254fdb;
 }
-.iconeye{
-  display: inline-block;
-}
-#eye{
-  display: block;
-  position: relative;
-  top: -18px;
-  width:27px;
-  cursor: pointer;
-}
+
+
 .side-image{
   display: inline-block;
   position: relative;
@@ -151,5 +143,6 @@ input[type="submit"]:hover{
 }
 
 .footer{
-  display: flex;
+  display: flex; 
+
 }
